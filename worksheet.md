@@ -1,4 +1,4 @@
-# Getting Started with micro:bits
+# Getting Started with the micro:bit
 
 If you're one of the thousands of school children across the UK to receive a one of the BBC's amazing micro:bits, and you want to learn how you can write push code to it from your Raspberry Pi, then this resource will give you a quick and easy setup guide to start you on your journey to exploring the micro:bit.
 
