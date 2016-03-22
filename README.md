@@ -1,8 +1,8 @@
-# Example Resource
+# Getting Started with Microbits
 
 ![](cover.png)
 
-Short description of the resource
+In this resource you will learn how to install the micropython editor **mu** to your Raspberry Pi, and push programs written in micropython from your Raspberry Pi to the Microbit.
 
 ## Licence
 
@@ -12,4 +12,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***Example Resource*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/example-resource
+Based on a work at https://github.com/raspberrypilearning/getting-started-with-microbits

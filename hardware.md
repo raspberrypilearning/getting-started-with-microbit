@@ -1,5 +1,5 @@
 # Hardware Requirements
 
-Some extra information about the specifics of the hardware requirements or alternative products you can use.
-
-This file is optional
+For this project, as well as a Raspberry Pi,  you'll need:
+- A Microbit
+- A USB-microUSB cable
