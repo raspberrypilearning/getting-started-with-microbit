@@ -1,4 +1,4 @@
-# Getting Started with Microbits
+# Getting Started with the micro:bit
 
 ![](cover.png)
 
