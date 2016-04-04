@@ -20,7 +20,7 @@ The micro:bit has a micro USB port that you can use to connect it to your Raspbe
 
 1. Connect your Raspberry Pi to the micro:bit using a USB A-to-micro-B cable, as shown below:
 
-![usb setup](images/usb.jpg)
+![usb setup](images/usb.png)
 
 1. You'll know that the micro:bit has connected to your Raspberry Pi, because a dialogue box should pop up like the one below:
 
