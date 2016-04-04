@@ -8,11 +8,7 @@ MicroPython is a small but very fast version of Python 3 that has been specially
 
 1. To install mu, you should follow the instructions in the [software installation guide](software.md).
 
-1. Once **mu** is installed, you can run it from the terminal. Open LXTerminal and type:
-
-    ```bash
-    ./mu
-    ```
+1. Once **mu** is installed, you can find it in `Menu`>`Programming`>`mu`
 
 1. A new window should open up that looks like this:
 
