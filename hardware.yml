@@ -1,5 +1,5 @@
 - name: micro:bit
-  img: microbit
+  img: micro-bit
 - name: USB A-to-micro-B
   img: usb-microusb
 
