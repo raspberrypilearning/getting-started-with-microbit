@@ -6,9 +6,7 @@ If you're one of the thousands of schoolchildren across the UK to receive one of
 
 MicroPython is a small but very fast version of Python 3 that has been specially designed to work on microcontrollers, such as those found on the micro:bit. To start writing MicroPython code on your Raspberry Pi, it's helpful to have an IDE (Integrated Development Environment), to make things a little easier for you. Luckily, **[mu](https://github.com/ntoll/mu)** is an open-source editor designed especially for children, and can run on your Raspberry Pi.
 
-1. To install mu, you should follow the instructions in the [software installation guide](software.md).
-
-1. Once **mu** is installed, you can find it in `Menu`>`Programming`>`mu`
+1. Open `Mu` from the main menu under `Programming`.
 
 1. A new window should open up that looks like this:
 
