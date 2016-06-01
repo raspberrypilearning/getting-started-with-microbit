@@ -6,5 +6,7 @@
   img: resistor-47r
 - name: Female to Female Jumper Lead
   img: jumper-female-to-female
-- name: Crocodile clips and wite
+- name: Crocodile clips and wire
   img: crocodile-clips
+- name: LED
+  img: led
