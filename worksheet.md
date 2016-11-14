@@ -82,10 +82,10 @@ The *REPL* is an interactive shell, running on the micro:bit itself. Here you ca
   ```python
   from microbit import *
   while True:
-  	if button_a.is_pressed():
-  		display.scroll('A PRESSED')
-  	if button_b.is_pressed():
-  		display.scroll('B PRESSED')
+      if button_a.is_pressed():
+          display.scroll('A PRESSED')
+      if button_b.is_pressed():
+          display.scroll('B PRESSED')
   ```
 
 1. Now you can save this script by clicking on the `Save` button. Call the file **what_pressed.py**.
