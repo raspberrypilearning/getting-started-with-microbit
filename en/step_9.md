@@ -6,7 +6,7 @@ Some of the cool features on the micro:bit are the GPIO pins, the accelerometer,
 
 	![circuit](images/circuit.png)
 
-2. You're going to write a little bit of code that will light an external LED, and some of the LEDs on the matrix, when the micro:bit is shaken. Have a read through the code below, and then use mu to push it to the micro:bit.
+- You're going to write a little bit of code that will light an external LED, and some of the LEDs on the matrix, when the micro:bit is shaken. Have a read through the code below, and then use mu to push it to the micro:bit.
 
   ```python
   from microbit import *
@@ -24,5 +24,5 @@ Some of the cool features on the micro:bit are the GPIO pins, the accelerometer,
           sleep(500)
   ```
 
-3. Flash the code to your micro:bit and then give it a good shake. Do you see the LEDs changing?
+- Flash the code to your micro:bit and then give it a good shake. Do you see the LEDs changing?
 
