@@ -3,20 +3,26 @@ title: Getting Started with the micro:bit
 hero_image: images/banner.png
 description: Learn how to push programs to your micro:bit using a Raspberry Pi
 original_url: https://raspberrypi.org/learning/getting-started-with-microbit
-theme: red
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-1, phys-comp-1, manufacture-0, community-0
 interests: ''
-technologies: raspberry-pi, electronic-components, python
+<<<<<<< HEAD
+technologies: microbit, pyton
 site_areas: projects
-hardware: raspberry-pi, electronic-components
+hardware: microbit
 software: python
 version: 3
 last_tested: 2017-01-01
 steps: 
+=======
+technologies: physical computing, python
+site_areas: ''
+steps:
+>>>>>>> master
 - title: Introduction
 - title: What you will need
 - title: Getting started with the micro:bit
