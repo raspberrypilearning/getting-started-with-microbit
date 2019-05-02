@@ -132,5 +132,5 @@ Some of the cool features on the micro:bit are the GPIO pins, the accelerometer,
 - You could have a go at some of the other cool projects using a Raspberry Pi and a micro:bit. Have a look at the following resources:
 1. [micro:bit selfies](https://www.raspberrypi.org/learning/microbit-selfies)
 2. [micro:bit interactive badge](https://www.raspberrypi.org/learning/interactive-badge)
-2. [micro:bit meteorologist](https://www.raspberrypi.org/learning/microbit-meteorologist)
+3. [micro:bit meteorologist](https://www.raspberrypi.org/learning/microbit-meteorologist)
 
