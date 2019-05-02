@@ -131,6 +131,11 @@ Some of the cool features on the micro:bit are the GPIO pins, the accelerometer,
 - As always, the best way of finding out how to use a new piece of hardware or software (in this case both) is to have a look at the documentation. You can find documentation for MicroPython on the micro:bit at [this site](https://microbit-micropython.readthedocs.org/en/latest/).
 - You could have a go at some of the other cool projects using a Raspberry Pi and a micro:bit. Have a look at the following resources:
 1. [micro:bit selfies](https://www.raspberrypi.org/learning/microbit-selfies)
+<<<<<<< HEAD
 2. [micro:bit interactive badge](https://projects.raspberrypi.org/en/projects/interactive-badge)
 2. [micro:bit meteorologist](https://www.raspberrypi.org/learning/microbit-meteorologist)
+=======
+2. [micro:bit interactive badge](https://www.raspberrypi.org/learning/interactive-badge)
+3. [micro:bit meteorologist](https://www.raspberrypi.org/learning/microbit-meteorologist)
+>>>>>>> c30379c80fe1d5216408451f3852cc58ffbd6615
 
