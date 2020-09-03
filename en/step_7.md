@@ -19,5 +19,7 @@ The *REPL* is an interactive shell, running on the micro:bit itself. Here you ca
   display.scroll('Woop, woop')
   ```
 
+- If you get an error it might be because MicroPython has not been flashed to your micro:bit. Use the **Flash** button to install MicroPython, and try again.
+
 - The *REPL* is a great place to write single lines of code to test them out, but for larger scripts, you'll need to use files.
 
