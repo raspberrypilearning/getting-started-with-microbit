@@ -16,14 +16,18 @@ hardware: microbit
 software: python
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
 - title: Getting started with the micro:bit
 - title: Starting mu
+  completion:
+  - engaged
 - title: Plugging in your micro:bit
 - title: Using mu
 - title: Using the REPL
 - title: Writing and pushing code
 - title: More features of the micro:bit
+  completion:
+  - internal
 - title: What next?
