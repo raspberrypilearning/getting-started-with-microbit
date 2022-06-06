@@ -19,13 +19,15 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Getting started with the micro:bit
 - title: Starting mu
+  completion:
+  - engaged
 - title: Plugging in your micro:bit
 - title: Using mu
 - title: Using the REPL
 - title: Writing and pushing code
-  completion: internal
 - title: More features of the micro:bit
+  completion:
+  - internal
 - title: What next?
